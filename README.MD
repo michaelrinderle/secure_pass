@@ -1,5 +1,5 @@
-# michael-rinderle-p2
-project 2 : SecurePass [transfer passwords discreetly and securely]
+# michael-rinderle
+SecurePass [transfer passwords discreetly and securely]
 
 # features
 
